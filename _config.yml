@@ -108,5 +108,5 @@ theme: matery
 #部署部分的设置
 deploy:
   type: git
-  repo: https://linjiadweb:jkp66902@github.com/linjiadweb/linjiadweb.github.io.git
+  repo: https://linjiadproduct:jkp66902@github.com/linjiadproduct/linjiadproduct.github.io.git
   branch: master
