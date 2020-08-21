@@ -33,38 +33,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="208001e3-65de-4784-9660-4d0d88e91824" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/数据分析/0导论.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/数据分析/0导论.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/数据分析/01数据指标.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +56,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fzaKDrfM3T9SOXwGlRkiyXiRBC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -98,7 +80,7 @@
       <recent name="F:\PrivateWork\blog\blog_product\source\_posts\test" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.server">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -106,6 +88,7 @@
         <script value="build" />
       </scripts>
       <node-interpreter value="project" />
+      <package-manager value="npm" />
       <envs />
       <method v="2" />
     </configuration>
@@ -116,6 +99,7 @@
         <script value="clean" />
       </scripts>
       <node-interpreter value="project" />
+      <package-manager value="npm" />
       <envs />
       <method v="2" />
     </configuration>
@@ -126,6 +110,7 @@
         <script value="deploy" />
       </scripts>
       <node-interpreter value="project" />
+      <package-manager value="npm" />
       <envs />
       <method v="2" />
     </configuration>
@@ -148,10 +133,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.server" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.clean" />
+        <item itemvalue="npm.server" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +158,7 @@
       <workItem from="1597650645910" duration="94000" />
       <workItem from="1597650803243" duration="61000" />
       <workItem from="1597654509278" duration="21120000" />
-      <workItem from="1597975104755" duration="8012000" />
+      <workItem from="1597975104755" duration="10770000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1587863667662</created>
@@ -205,10 +190,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="656" y="203" key="#build" timestamp="1597992936804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="203" key="#build/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992936804" />
+    <state x="656" y="203" key="#clean" timestamp="1597992929870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="203" key="#clean/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992929870" />
     <state x="692" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597719985558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="692" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597719985558" />
+    <state x="656" y="203" key="#deploy" timestamp="1597992954182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="203" key="#deploy/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992954182" />
     <state x="555" y="137" key="#server" timestamp="1597650741792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -218,29 +215,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="638" y="209" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597991207586" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597992686436">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597992954362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1396" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1597282497863" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992686436" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992954362" />
     <state width="1876" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597389851988" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597992686436">
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1597992954361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1396" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1597282497863" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992686436" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992954361" />
     <state width="1876" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597389851988" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597992686436">
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1597992954361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1396" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1597282497863" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992686436" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992954361" />
     <state width="1876" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597389851988" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597992686436">
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1597992954362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1396" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1597282497863" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992686436" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597992954362" />
     <state width="1876" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597389851988" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1597720024981">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -254,9 +251,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="575" y="262" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597650738243" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1597392311650">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598003451490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1598003451490" />
     <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597392311650" />
   </component>
 </project>
